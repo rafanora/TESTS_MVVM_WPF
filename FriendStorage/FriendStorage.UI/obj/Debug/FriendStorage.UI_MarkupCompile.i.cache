@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\WPFandMVVM_TestDrivenDevelopment-master\Starter\FriendStorage\FriendStorage.UI\obj\Debug\
+C:\Users\rafael\Source\Repos\TESTS_MVVM_WPF\FriendStorage\FriendStorage.UI\obj\Debug\
 FriendStorage.UI
 none
 false
 DEBUG;TRACE
-C:\WPFandMVVM_TestDrivenDevelopment-master\Starter\FriendStorage\FriendStorage.UI\App.xaml
+C:\Users\rafael\Source\Repos\TESTS_MVVM_WPF\FriendStorage\FriendStorage.UI\App.xaml
 91575423104
 
 181256830441
-152125533366
+15-682188831
 Styles\Brushes.xaml;Styles\Button.xaml;Styles\CheckBox.xaml;Styles\DatePicker.xaml;Styles\Label.xaml;Styles\TextBox.xaml;View\FriendEditView.xaml;View\MainWindow.xaml;View\NavigationView.xaml;
 
 True

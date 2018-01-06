@@ -18,3 +18,13 @@ C:\WPFandMVVM_TestDrivenDevelopment-master\Starter\FriendStorage\FriendStorage.D
 C:\WPFandMVVM_TestDrivenDevelopment-master\Starter\FriendStorage\FriendStorage.DataAccess\obj\Debug\FriendStorage.DataAccess.csproj.CoreCompileInputs.cache
 C:\WPFandMVVM_TestDrivenDevelopment-master\Starter\FriendStorage\FriendStorage.DataAccess\obj\Debug\FriendStorage.DataAccess.dll
 C:\WPFandMVVM_TestDrivenDevelopment-master\Starter\FriendStorage\FriendStorage.DataAccess\obj\Debug\FriendStorage.DataAccess.pdb
+C:\Users\rafael\Source\Repos\TESTS_MVVM_WPF\FriendStorage\FriendStorage.DataAccess\bin\Debug\FriendStorage.DataAccess.dll
+C:\Users\rafael\Source\Repos\TESTS_MVVM_WPF\FriendStorage\FriendStorage.DataAccess\bin\Debug\FriendStorage.DataAccess.pdb
+C:\Users\rafael\Source\Repos\TESTS_MVVM_WPF\FriendStorage\FriendStorage.DataAccess\bin\Debug\FriendStorage.Model.dll
+C:\Users\rafael\Source\Repos\TESTS_MVVM_WPF\FriendStorage\FriendStorage.DataAccess\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rafael\Source\Repos\TESTS_MVVM_WPF\FriendStorage\FriendStorage.DataAccess\bin\Debug\FriendStorage.Model.pdb
+C:\Users\rafael\Source\Repos\TESTS_MVVM_WPF\FriendStorage\FriendStorage.DataAccess\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rafael\Source\Repos\TESTS_MVVM_WPF\FriendStorage\FriendStorage.DataAccess\obj\Debug\FriendStorage.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\rafael\Source\Repos\TESTS_MVVM_WPF\FriendStorage\FriendStorage.DataAccess\obj\Debug\FriendStorage.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\rafael\Source\Repos\TESTS_MVVM_WPF\FriendStorage\FriendStorage.DataAccess\obj\Debug\FriendStorage.DataAccess.dll
+C:\Users\rafael\Source\Repos\TESTS_MVVM_WPF\FriendStorage\FriendStorage.DataAccess\obj\Debug\FriendStorage.DataAccess.pdb

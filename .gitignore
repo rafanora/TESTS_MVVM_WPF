@@ -5,8 +5,10 @@
 /FriendStorage/.vs
 /FriendStorage/.vs/*
 /FriendStorage/FriendStorage.DataAccess/bin
+/FriendStorage/FriendStorage.DataAccess/obj
 /FriendStorage/FriendStorage.Model/bin
+/FriendStorage/FriendStorage.Model/obj
 /FriendStorage/FriendStorage.UI/bin
-/FriendStorage/FriendStorageUITests/bin
 /FriendStorage/FriendStorage.UI/obj
+/FriendStorage/FriendStorageUITests/bin
 *.ide

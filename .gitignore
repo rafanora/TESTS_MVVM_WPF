@@ -2,4 +2,11 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/FriendStorage/.vs/FriendStorage/v15/Server/sqlite3
+/FriendStorage/.vs
+/FriendStorage/.vs/*
+/FriendStorage/FriendStorage.DataAccess/bin
+/FriendStorage/FriendStorage.Model/bin
+/FriendStorage/FriendStorage.UI/bin
+/FriendStorage/FriendStorageUITests/bin
+/FriendStorage/FriendStorage.UI/obj
+*.ide

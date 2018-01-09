@@ -11,4 +11,5 @@
 /FriendStorage/FriendStorage.UI/bin
 /FriendStorage/FriendStorage.UI/obj
 /FriendStorage/FriendStorageUITests/bin
+/FriendStorage/FriendStorageUITests/obj
 *.ide
